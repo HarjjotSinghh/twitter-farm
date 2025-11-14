@@ -184,7 +184,7 @@ twitter-farm/
 
 - **Runtime**: Node.js 18+ (ES Modules)
 - **Browser Automation**: Playwright
-- **AI**: OpenAI API (GPT-4)
+- **AI**: OpenAI API (gpt-5-mini)
 - **Logging**: Winston
 - **Image Processing**: Sharp
 - **HTTP Client**: Axios

@@ -266,7 +266,7 @@ Edit `.env` to try different models:
 
 ```env
 # Most capable, higher cost
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-5-mini
 
 # Faster, cheaper
 OPENAI_MODEL=gpt-3.5-turbo

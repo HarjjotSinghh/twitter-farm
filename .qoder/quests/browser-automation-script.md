@@ -350,7 +350,7 @@ flowchart TD
 | Parameter | Default Value | Description |
 |-----------|---------------|-------------|
 | ai_api_provider | openai | AI service provider |
-| ai_model | gpt-4 | Specific model version |
+| ai_model | gpt-5-mini | Specific model version |
 | ai_temperature | 0.7 | Creativity level (0-1) |
 | trend_fetch_interval | 60 minutes | How often to refresh trending topics |
 | content_generation_batch | 5 | Number of posts to generate per batch |

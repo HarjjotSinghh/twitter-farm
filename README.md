@@ -56,7 +56,7 @@ TWITTER_EMAIL=your_email@example.com
 
 # OpenAI API
 OPENAI_API_KEY=sk-your-api-key-here
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-5-mini
 
 # Application Settings
 NODE_ENV=development
@@ -132,7 +132,7 @@ twitter-farm/
 | `TWITTER_PASSWORD` | Your Twitter password | Required |
 | `TWITTER_EMAIL` | Email for verification | Required |
 | `OPENAI_API_KEY` | OpenAI API key | Required |
-| `OPENAI_MODEL` | AI model to use | gpt-4 |
+| `OPENAI_MODEL` | AI model to use | gpt-5-mini |
 | `HEADLESS_MODE` | Run browser headless | false |
 | `MIN_POST_INTERVAL` | Min minutes between posts | 90 |
 | `MAX_POST_INTERVAL` | Max minutes between posts | 240 |

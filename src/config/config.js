@@ -29,7 +29,7 @@ class Config {
     // OpenAI Configuration
     this.ai = {
       apiKey: process.env.OPENAI_API_KEY || '',
-      model: process.env.OPENAI_MODEL || 'gpt-4',
+      model: process.env.OPENAI_MODEL || 'gpt-5-mini',
       temperature: parseFloat(process.env.OPENAI_TEMPERATURE || '0.7'),
       replyTemperature: parseFloat(process.env.REPLY_AI_TEMPERATURE || '0.8')
     };
